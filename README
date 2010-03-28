@@ -5,4 +5,4 @@ USERNAME" as the command. If they're different, use the command line flags of
 "--github" or "--twitter" to specify the login for the respective service.
 
 Example:
-$ ruby lib/vanity.rb cashion --github=trotter
+$ ruby lib/vanity.rb all cashion --github=trotter
