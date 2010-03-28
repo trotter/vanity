@@ -1,0 +1,8 @@
+Vanity is an app that lets you be your truly vain self. Run it on the command
+line to monitor how popular you are. It will pull data from your twitter and
+github accounts. If they both have the same login, you can just use "vanity.rb
+USERNAME" as the command. If they're different, use the command line flags of
+"--github" or "--twitter" to specify the login for the respective service.
+
+Example:
+$ ruby lib/vanity.rb cashion --github=trotter
